@@ -101,7 +101,7 @@
     "slash": "^3.0.0",
     "slugify": "^1.4.4",
     "styled-system": "^5.1.5",
-    "theme-ui": "^0.3.1",
+    "theme-ui": "^0.7.3",
     "typography": "^1.0.0-alpha.4",
     "typography-plugin-code": "^1.0.0-alpha.0",
     "wcag-contrast": "^2.1.1",
